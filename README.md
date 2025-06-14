@@ -1,4 +1,3 @@
-Voici un **README.md** haut de gamme qui reflète votre profil d'**ingénieur SI full-stack dynamique et engagé**, avec un design moderne, des badges pro, et une mise en valeur de vos compétences techniques. Parfait pour impressionner les recruteurs ou collaborateurs :
 
 ```markdown
 # 💻 **PRÉNOM NOM**  
