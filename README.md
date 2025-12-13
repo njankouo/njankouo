@@ -1,4 +1,4 @@
-# 👨‍💻 [NJANKOUO NDAM DAIROU] - Portfolio Full Stack & Systèmes d'Information
+# 👨‍💻 NJANKOUO NDAM DAIROU - Portfolio Full Stack & Systèmes d'Information
 
 > Titulaire d'un Master en Systèmes d'Information et Génie Logiciel (SIGL), ce portfolio présente mes réalisations en tant que développeur Full Stack polyglotte, expert dans la conception et la mise en œuvre de solutions logicielles robustes et scalables.
 
@@ -9,9 +9,9 @@
 
 ## 🔗 Liens Rapides
 
-* **Voir le Portfolio en Ligne :** [https://[portofolio-njankouo.vercel.app].com](https://[votre-lien-de-déploiement].com)
-* **LinkedIn :** [https://linkedin.com/in/[njankouo]](https://linkedin.com/in/[njankouo])
-* **Contacter :** [dairounjankouo2019@gmail.com](mailto:dairounjankouo2019@gmail.com)
+* **Voir le Portfolio en Ligne :** https://portofolio-njankouo.vercel.app
+* **LinkedIn :** [https://linkedin.com/in/[njankouo]](https://linkedin.com/in/njankouo)
+* **Contacter :** dairounjankouo2019@gmail.com (mailto:dairounjankouo2019@gmail.com)
 
 ---
 
