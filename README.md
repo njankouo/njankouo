@@ -9,7 +9,7 @@
 | État et Dépôt | Liens Essentiels | Contact |
 | :--- | :--- | :--- |
 | [![Build Status](https://img.shields.io/badge/Status-Actif-brightgreen)](https://portfolio-njankouo.vercel.app) | **Voir le Portfolio :** [https://portfolio-njankouo.vercel.app](https://portfolio-njankouo.vercel.app) | **Email :** [dairounjankouo2019@gmail.com](mailto:dairounjankouo2019@gmail.com) |
-| [![Version](https://img.shields.io/badge/Version-v1.0-blue)](https://github.com/njankouo/[votre-repo]) | **LinkedIn :** [https://linkedin.com/in/njankouo](https://linkedin.com/in/njankouo) | **GitHub :** [Lien vers votre page GitHub] |
+| [![Version](https://img.shields.io/badge/Version-v1.0-blue)](https://github.com/njankouo/[votre-repo]) | **LinkedIn :** [https://linkedin.com/in/njankouo](https://linkedin.com/in/njankouo) | **GitHub :** https://github.com/njankouo/ |
 
 ---
 
