@@ -9,9 +9,9 @@
 
 ## 🔗 Liens Rapides
 
-* **Voir le Portfolio en Ligne :** [https://[votre-lien-de-déploiement].com](https://[votre-lien-de-déploiement].com)
-* **LinkedIn :** [https://linkedin.com/in/[votre-profil]](https://linkedin.com/in/[votre-profil])
-* **Contacter :** [votre.email@example.com](mailto:votre.email@example.com)
+* **Voir le Portfolio en Ligne :** [https://[portofolio-njankouo.vercel.app].com](https://[votre-lien-de-déploiement].com)
+* **LinkedIn :** [https://linkedin.com/in/[njankouo]](https://linkedin.com/in/[njankouo])
+* **Contacter :** [dairounjankouo2019@gmail.com](mailto:dairounjankouo2019@gmail.com)
 
 ---
 
