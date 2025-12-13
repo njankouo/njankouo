@@ -9,8 +9,8 @@
 
 ## 🔗 Liens Rapides
 
-* **Voir le Portfolio en Ligne :** https://portofolio-njankouo.vercel.app
-* **LinkedIn :** [https://linkedin.com/in/[njankouo]](https://linkedin.com/in/njankouo)
+* **Voir le Portfolio en Ligne :** https://portfolio-njankouo.vercel.app
+* **LinkedIn :** https://linkedin.com/in/njankouo (https://linkedin.com/in/njankouo)
 * **Contacter :** dairounjankouo2019@gmail.com (mailto:dairounjankouo2019@gmail.com)
 
 ---
