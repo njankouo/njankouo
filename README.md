@@ -1,106 +1,139 @@
-# 👨‍💻 **NJANKOUO NDAM DAIROU** – Portfolio Full Stack & Systèmes d'Information
+# 👨‍💻 NJANKOUO NDAM DAIROU – Portfolio Full Stack & Systèmes d'Information
 
 > 🎓 **Master en Systèmes d'Information et Génie Logiciel (SIGL)**  
-Ce portfolio est une vitrine de mes compétences en tant que **développeur Full Stack**. Découvrez mes projets et compétences techniques en matière de conception et de développement de solutions logicielles **robustes** et **scalables**.
+Ce portfolio présente mes compétences en développement Full Stack et systèmes d’information. Découvrez mes projets, technologies et réalisations **robustes, scalables et modernes**.
 
 ---
 
-## 🏅 **Statut du Projet & Liens Rapides**
+## 🏅 Statut du Projet & Liens Rapides
 
-| **État et Dépôt** | **Liens Essentiels** | **Contact** |
-|:-----------------:|:--------------------:|:-----------:|
-| [![Build Status](https://img.shields.io/badge/Status-Actif-brightgreen)](https://portfolio-njankouo.vercel.app) | **Voir le Portfolio** : [portfolio-njankouo.vercel.app](https://portfolio-njankouo.vercel.app) | **Email** : [dairounjankouo2019@gmail.com](mailto:dairounjankouo2019@gmail.com) |
-| [![Version](https://img.shields.io/badge/Version-v1.0-blue)](https://github.com/njankouo/[votre-repo]) | **LinkedIn** : [linkedin.com/in/njankouo](https://linkedin.com/in/njankouo) | **GitHub** : [github.com/njankouo](https://github.com/njankouo/) |
+[![Build Status](https://img.shields.io/badge/Status-Actif-brightgreen)](https://portfolio-njankouo.vercel.app)
+[![Version](https://img.shields.io/badge/Version-v1.0-blue)](https://github.com/njankouo/[votre-repo])
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)]()
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)]()
+
+**Portfolio live :** [https://portfolio-njankouo.vercel.app](https://portfolio-njankouo.vercel.app)  
+**LinkedIn :** [https://linkedin.com/in/njankouo](https://linkedin.com/in/njankouo)  
+**GitHub :** [https://github.com/njankouo](https://github.com/njankouo/)  
+**Email :** [dairounjankouo2019@gmail.com](mailto:dairounjankouo2019@gmail.com)
 
 ---
 
-## 📖 **Sommaire Détaillé**
+## 📖 Sommaire
 
 1. [💡 Introduction & Objectifs](#1-💡-introduction--objectifs)
-2. [🚀 Stack Technique (La Boîte à Outils)](#2-🚀-stack-technique-la-boîte-à-outils)
+2. [🚀 Stack Technique](#2-🚀-stack-technique)
 3. [✨ Fonctionnalités du Portfolio](#3-✨-fonctionnalités-du-portfolio)
-4. [🌐 Portfolio Live : Projets Réalisés](#4-🌐-portfolio-live-projets-réalisés)
-5. [▶️ Démarrage Rapide (Développement Local)](#5-▶️-démarrage-rapide-développement-local)
+4. [🌐 Projets Réalisés](#4-🌐-projets-réalisés)
+5. [▶️ Démarrage Rapide](#5-▶️-démarrage-rapide)
 6. [🏗️ Architecture](#6-🏗️-architecture)
 7. [📄 Licence](#7-📄-licence)
 
 ---
 
-## 1. 💡 **Introduction & Objectifs**
+## 1. 💡 Introduction & Objectifs
 
-Ce projet est une démonstration de mon expertise en développement Full Stack, avec une approche soignée et un souci constant de performance. Mon parcours en **Systèmes d'Information et Génie Logiciel (SIGL)** me permet de concevoir des **architectures logicielles** puissantes et évolutives, tout en optimisant l'expérience utilisateur.
+Ce portfolio est une vitrine de mes compétences en **Full Stack et SIGL**.  
+L’objectif : montrer mon savoir-faire dans la conception de solutions logicielles **scalables, performantes et robustes**, avec un focus sur :
 
-* **L'architecture logicielle :** APIs RESTful et GraphQL robustes.
-* **La performance :** Optimisation des requêtes SQL (Postgres/MySQL) et du rendu (React/Tailwind CSS).
-* **La polyvalence :** Expertise dans plusieurs langages (Python, JavaScript, PHP).
-
----
-
-## 2. 🚀 **Stack Technique (La Boîte à Outils)**
-
-| **Catégorie** | **Outils Principaux** | **Expertise** |
-|:-------------:|:---------------------:|:-------------:|
-| **Frontend Web** | React, Tailwind CSS, Bootstrap | Création d'interfaces modernes, réactives, et esthétiques. |
-| **Frontend Mobile** | React Native | Développement mobile multiplateforme performant. |
-| **Backend Python** | Django (avec DRF) | Développement d'APIs scalables et robustes. |
-| **Backend JavaScript** | Node.js, API REST, GraphQL | Microservices et architecture sans serveur. |
-| **Backend PHP** | Laravel, PHP | Expertise dans les frameworks PHP traditionnels. |
-| **Base de données** | PostgreSQL, MySQL | Optimisation des bases de données relationnelles. |
-| **Déploiement/Ops** | Nginx | Serveur web haute performance et gestion du traffic. |
+- **Architecture logicielle :** APIs RESTful et GraphQL.
+- **Performance :** Optimisation des requêtes SQL et rendu React/Tailwind.
+- **Polyvalence :** Python, JavaScript, PHP.
 
 ---
 
-## 3. ✨ **Fonctionnalités du Portfolio**
+## 2. 🚀 Stack Technique
 
-Le portfolio présente une interface élégante, fluide et dynamique :
-
-- **Design Moderne** : Créé avec **Tailwind CSS** pour une expérience utilisateur optimale.
-- **Contenu Dynamique** : Les projets sont affichés via une API REST (ou GraphQL) développée en **Node.js/Django**.
-- **Optimisation** : Conçu pour un **chargement rapide** et une **navigation fluide**.
-
----
-
-## 4. 🌐 **Portfolio Live : Projets Réalisés**
-
-Voici une sélection de projets auxquels j'ai contribué et qui montrent mes compétences en action :
-
-| **Projet** | **Description** | **Technologies** | **Lien** |
-|:---------:|:--------------:|:----------------:|:--------:|
-| **Operaplus** | Plateforme de gestion de services | React, Django, PostgreSQL | [operaplus.org](https://operaplus.org) |
-| **Edutack** | Solution de gestion académique | React, Laravel, MySQL | [edutack.operaplus.org](https://edutack.operaplus.org) |
-| **MboaMarket** | E-commerce Marketplace | Node.js, React Native, API REST | [mboamarket.com](https://mboamarket.com) |
-| **Africasurg** | Application médicale | Django, React, Tailwind CSS | [africasurg.com](https://africasurg.com) |
+| Catégorie | Outils | Expertise |
+|:---------:|:------|:---------|
+| **Frontend Web** | React, Tailwind CSS, Bootstrap | Interfaces modernes, réactives, performantes |
+| **Frontend Mobile** | React Native | Applications multiplateformes natives |
+| **Backend Python** | Django (DRF) | APIs robustes et scalables |
+| **Backend JS** | Node.js, GraphQL, REST | Microservices et architecture sans serveur |
+| **Backend PHP** | Laravel, PHP | Frameworks traditionnels |
+| **DB** | PostgreSQL, MySQL | Optimisation et schémas complexes |
+| **Déploiement** | Docker, Nginx | Production stable et performante |
 
 ---
 
-## 5. ▶️ **Démarrage Rapide (Développement Local)**
+## 3. ✨ Fonctionnalités du Portfolio
 
-Suivez ces étapes pour faire tourner le projet en local.
+- **Design moderne et fluide** avec Tailwind CSS.  
+- **Contenu dynamique** via API REST/GraphQL.  
+- **Navigation rapide et optimisée**.  
+
+---
+
+## 4. 🌐 Projets Réalisés
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+<!-- Operaplus -->
+<div style="border:1px solid #ddd; border-radius:10px; width:250px; padding:10px;">
+<img src="images/operaplus.png" alt="Operaplus" style="width:100%; border-radius:5px;">
+<h3>Operaplus</h3>
+<p>Plateforme de gestion de services</p>
+<p><strong>Tech :</strong> React, Django, PostgreSQL</p>
+<a href="https://operaplus.org">Voir en ligne</a>
+</div>
+
+<!-- Edutack -->
+<div style="border:1px solid #ddd; border-radius:10px; width:250px; padding:10px;">
+<img src="images/edutack.png" alt="Edutack" style="width:100%; border-radius:5px;">
+<h3>Edutack</h3>
+<p>Solution e-learning</p>
+<p><strong>Tech :</strong> React, Laravel, MySQL</p>
+<a href="https://edutack.operaplus.org">Voir en ligne</a>
+</div>
+
+<!-- MboaMarket -->
+<div style="border:1px solid #ddd; border-radius:10px; width:250px; padding:10px;">
+<img src="images/mboamarket.png" alt="MboaMarket" style="width:100%; border-radius:5px;">
+<h3>MboaMarket</h3>
+<p>E-commerce Marketplace</p>
+<p><strong>Tech :</strong> Node.js, React Native, API REST</p>
+<a href="https://mboamarket.com">Voir en ligne</a>
+</div>
+
+<!-- Africasurg -->
+<div style="border:1px solid #ddd; border-radius:10px; width:250px; padding:10px;">
+<img src="images/africasurg.png" alt="Africasurg" style="width:100%; border-radius:5px;">
+<h3>Africasurg</h3>
+<p>Application médicale</p>
+<p><strong>Tech :</strong> Django, React, Tailwind CSS</p>
+<a href="https://africasurg.com">Voir en ligne</a>
+</div>
+
+</div>
+
+---
+
+## 5. ▶️ Démarrage Rapide
 
 ### Prérequis
-- **Node.js (v18+)** & **npm**
-- **Python 3.x**
-- **Docker** (recommandé pour la gestion des bases de données)
+- Node.js v18+, npm  
+- Python 3.x  
+- Docker (fortement recommandé)  
 
 ### Installation
 
 ```bash
-# Cloner le dépôt
 git clone https://github.com/njankouo/[votre-repo].git
 cd [votre-repo]
 
-# Lancer la base de données (Postgres)
+# Base de données
 docker-compose up -d postgres
 
-# Démarrer le backend (Node.js/Django)
+# Backend
 cd backend-api
-npm install          # Pour Node.js
-cp .env.example .env  # Configurer les variables DB/API
-npm run start        # Ou python manage.py runserver pour Django
+npm install
+cp .env.example .env
+npm run start  # ou python manage.py runserver
 
-# Lancer le frontend
-cd frontend-react
+# Frontend
+cd ../frontend-react
 npm install
 npm run dev
 
-# 🌍 Le portfolio est accessible sur http://localhost:3000
+# Portfolio accessible sur http://localhost:3000
