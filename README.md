@@ -10,7 +10,7 @@ Ce portfolio est une vitrine de mes compétences en tant que **développeur Full
 | **État et Dépôt** | **Liens Essentiels** | **Contact** |
 |:-----------------:|:--------------------:|:-----------:|
 | [![Build Status](https://img.shields.io/badge/Status-Actif-brightgreen)](https://portfolio-njankouo.vercel.app) | **Voir le Portfolio** : [portfolio-njankouo.vercel.app](https://portfolio-njankouo.vercel.app) | **Email** : [dairounjankouo2019@gmail.com](mailto:dairounjankouo2019@gmail.com) |
-| [![Version](https://img.shields.io/badge/Version-v1.0-blue)](https://github.com/njankouo/[votre-repo]) | **LinkedIn** : [linkedin.com/in/njankouo](https://linkedin.com/in/njankouo) | **GitHub** : [github.com/njankouo](https://github.com/njankouo/) |
+| [![Version](https://img.shields.io/badge/Version-v1.0-blue)](https://github.com/njankouo/) | **LinkedIn** : [linkedin.com/in/njankouo](https://linkedin.com/in/njankouo) | **GitHub** : [github.com/njankouo](https://github.com/njankouo/) |
 
 ---
 
@@ -66,7 +66,7 @@ Voici une sélection de projets auxquels j'ai contribué et qui montrent mes com
 
 | **Projet** | **Description** | **Technologies** | **Lien** |
 |:---------:|:--------------:|:----------------:|:--------:|
-| **Operaplus** | Plateforme de gestion de services | React, Django, PostgreSQL | [operaplus.org](https://operaplus.org) |
+| **Operaplus** | Plateforme de gestion de services | React, Django, PostgreSQL | [operaplus.org](https://train.operaplus.org) |
 | **Edutack** | Solution de gestion académique | React, Laravel, MySQL | [edutack.operaplus.org](https://edutack.operaplus.org) |
 | **MboaMarket** | E-commerce Marketplace | Node.js, React Native, API REST | [mboamarket.com](https://mboamarket.com) |
 | **Africasurg** | Application médicale | Django, React, Tailwind CSS | [africasurg.com](https://africasurg.com) |
