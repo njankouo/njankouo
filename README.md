@@ -17,7 +17,7 @@ Ce portfolio est une vitrine de mes compétences en tant que **développeur Full
 ## 📖 **Sommaire Détaillé**
 
 1. [💡 Introduction & Objectifs](#1-💡-introduction--objectifs)
-2. [🚀 Stack Technique (La Boîte à Outils)](#2-🚀-stack-technique-la-boîte-à-outils)
+2. [ Stack Technique (La Boîte à Outils)](#2--stack-technique-la-boîte-à-outils)
 3. [✨ Fonctionnalités du Portfolio](#3-✨-fonctionnalités-du-portfolio)
 4. [🌐 Portfolio Live : Projets Réalisés](#4-🌐-portfolio-live-projets-réalisés)
 5. [▶️ Démarrage Rapide (Développement Local)](#5-▶️-démarrage-rapide-développement-local)
@@ -66,7 +66,7 @@ Voici une sélection de projets auxquels j'ai contribué et qui montrent mes com
 
 | **Projet** | **Description** | **Technologies** | **Lien** |
 |:---------:|:--------------:|:----------------:|:--------:|
-| **Operaplus** | Plateforme de gestion de services | React, Django, PostgreSQL | [operaplus.org](https://train.operaplus.org) |
+| **Operaplus** | Plateforme de gestion de services | React, Django, PostgreSQL | [meal.operaplus.org](https://train.operaplus.org) |
 | **Edutack** | Solution de gestion académique | React, Laravel, MySQL | [edutack.operaplus.org](https://edutack.operaplus.org) |
 | **MboaMarket** | E-commerce Marketplace | Node.js, React Native, API REST | [mboamarket.com](https://mboamarket.com) |
 | **Africasurg** | Application médicale | Django, React, Tailwind CSS | [africasurg.com](https://africasurg.com) |
