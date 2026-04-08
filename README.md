@@ -66,7 +66,7 @@ Voici une sélection de projets auxquels j'ai contribué et qui montrent mes com
 
 | **Projet** | **Description** | **Technologies** | **Lien** |
 |:---------:|:--------------:|:----------------:|:--------:|
-| **Operaplus** | Plateforme de gestion de services | React, Django, PostgreSQL | [meal.operaplus.org](https://train.operaplus.org) |
+| **Operaplus** | Plateforme de gestion de services | React, Django, PostgreSQL | [meal.operaplus.org](https://meal.operaplus.org) |
 | **Edutack** | Solution de gestion académique | React, Laravel, MySQL | [edutack.operaplus.org](https://edutack.operaplus.org) |
 | **MboaMarket** | E-commerce Marketplace | Node.js, React Native, API REST | [mboamarket.com](https://mboamarket.com) |
 | **Africasurg** | Application médicale | Django, React, Tailwind CSS | [africasurg.com](https://africasurg.com) |
